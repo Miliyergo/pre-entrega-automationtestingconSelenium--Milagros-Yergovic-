@@ -1,4 +1,4 @@
-# Pre Entrega - Automation Testing QA
+# Pre Entrega - Automatización Testing QA
 
 Proyecto de automatización de pruebas sobre el sitio [saucedemo.com](https://www.saucedemo.com), desarrollado con Python, Pytest y Selenium WebDriver.
 
